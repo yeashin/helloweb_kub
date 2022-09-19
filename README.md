@@ -1,5 +1,5 @@
 HelloApp_kub
 
-Steps:
-    1) kubectl apply -f .\helloapp-deployment.yaml
-    2) kubectl apply -f .\helloapp-service.yaml
+How To Run
+    kubectl apply -f .\helloapp-deployment.yaml
+    kubectl apply -f .\helloapp-service.yaml
